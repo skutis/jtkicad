@@ -1,4 +1,4 @@
-# JTSCH
+# JTKiCAD
 
 Collection of KiCAD libraries useful for arcade PCB schematics. The copyright of these files belong to Jose Tejada and can be used as detailed in the [license](LICENSE) file.
 
