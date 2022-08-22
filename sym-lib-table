@@ -13,7 +13,7 @@
   (lib (name "Mod_KC_Symbols")(type "KiCad")(uri "${MODULES}/jtkicad/lib/Mod_KC_Symbols.kicad_sym")(options "")(descr ""))
   (lib (name "mitsubishi")(type "KiCad")(uri "${MODULES}/jtkicad/lib/mitsubishi.kicad_sym")(options "")(descr ""))
   (lib (name "konami")(type "KiCad")(uri "${MODULES}/jtkicad/lib/konami.kicad_sym")(options "")(descr ""))
-  (lib (name "jt74xx")(type "KiCad")(uri "${MODULES}/jtkicad/lib/jt74xx.kicad_sym")(options "")(descr ""))
+  (lib (name "jt74")(type "KiCad")(uri "${MODULES}/jtkicad/lib/jt74.kicad_sym")(options "")(descr ""))
   (lib (name "Intel")(type "KiCad")(uri "${MODULES}/jtkicad/lib/Intel.kicad_sym")(options "")(descr ""))
   (lib (name "hitachi")(type "KiCad")(uri "${MODULES}/jtkicad/lib/hitachi.kicad_sym")(options "")(descr ""))
   (lib (name "fujitsu")(type "KiCad")(uri "${MODULES}/jtkicad/lib/fujitsu.kicad_sym")(options "")(descr ""))
