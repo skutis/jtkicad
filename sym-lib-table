@@ -7,6 +7,7 @@
   (lib (name "Signetics")(type "KiCad")(uri "${MODULES}/jtkicad/lib/Signetics.kicad_sym")(options "")(descr ""))
   (lib (name "Sharp")(type "KiCad")(uri "${MODULES}/jtkicad/lib/Sharp.kicad_sym")(options "")(descr ""))
   (lib (name "sega")(type "KiCad")(uri "${MODULES}/jtkicad/lib/sega.kicad_sym")(options "")(descr ""))
+  (lib (name "seta")(type "KiCad")(uri "${MODULES}/jtkicad/lib/seta.kicad_sym")(options "")(descr ""))
   (lib (name "oki")(type "KiCad")(uri "${MODULES}/jtkicad/lib/oki.kicad_sym")(options "")(descr ""))
   (lib (name "NKD")(type "KiCad")(uri "${MODULES}/jtkicad/lib/NKD.kicad_sym")(options "")(descr ""))
   (lib (name "Nec")(type "KiCad")(uri "${MODULES}/jtkicad/lib/Nec.kicad_sym")(options "")(descr ""))
