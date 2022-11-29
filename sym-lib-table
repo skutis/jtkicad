@@ -22,6 +22,6 @@
   (lib (name "arduino")(type "KiCad")(uri "${MODULES}/jtkicad/lib/arduino.kicad_sym")(options "")(descr ""))
   (lib (name "arcade")(type "KiCad")(uri "${MODULES}/jtkicad/lib/arcade.kicad_sym")(options "")(descr ""))
   (lib (name "74extra")(type "KiCad")(uri "${MODULES}/jtkicad/lib/74extra.kicad_sym")(options "")(descr ""))
-  (lib (name "capcom")(type "KiCad")(uri "/home/espe/git/jtcps/modules/jtkicad/lib/capcom.kicad_sym")(options "")(descr ""))
-  (lib (name "texas_instruments")(type "KiCad")(uri "/home/espe/git/jtcps/modules/jtkicad/lib/texas_instruments.kicad_sym")(options "")(descr ""))
+  (lib (name "capcom")(type "KiCad")(uri "${MODULES}/jtkicad/lib/capcom.kicad_sym")(options "")(descr ""))
+  (lib (name "texas_instruments")(type "KiCad")(uri "${MODULES}/jtkicad/lib/texas_instruments.kicad_sym").kicad_sym")(options "")(descr ""))
 )
