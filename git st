@@ -1,0 +1,120 @@
+[33mcommit 4644848c0e0aa41aca46b13a45103a80f4c2c605[m[33m ([m[1;36mHEAD -> [m[1;32mskutis[m[33m, [m[1;31mskutis/master[m[33m)[m
+Author: Ulf Skutnabba <skutis77@gmail.com>
+Date:   Wed Oct 5 22:15:22 2022 +0200
+
+    New symbols
+
+[33mcommit 342711081ce44cf4de601d5663a9abcd001f59cc[m
+Merge: 1daab48 2009017
+Author: Ulf Skutnabba <80739822+skutis@users.noreply.github.com>
+Date:   Wed Oct 5 21:17:48 2022 +0200
+
+    Merge branch 'jotego:master' into master
+
+[33mcommit 1daab48a96585f4a0cff75d28f9cd9aa595241ac[m
+Author: Ulf Skutnabba <skutis77@gmail.com>
+Date:   Wed Oct 5 21:16:42 2022 +0200
+
+    Added LH53400 mask ROM
+
+[33mcommit 20090170a31198a311f1ac0847da35d11b34fe99[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Wed Oct 5 17:02:54 2022 +0200
+
+    new symbols
+
+[33mcommit 502e95e4ccc87197f6127d81abd90ecb5dad593f[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Tue Oct 4 17:29:28 2022 +0200
+
+    new symbols
+
+[33mcommit e5391eba49077b271e3549e7116156b3057c7771[m
+Merge: 54c99bb 3e91be2
+Author: etriana85 <92724765+etriana85@users.noreply.github.com>
+Date:   Tue Oct 4 09:25:12 2022 +0200
+
+    Merge pull request #2 from skutis/master
+    
+    Updated the seta symbols in the yamaha library
+
+[33mcommit 3e91be2d0b2ae7dcd50f46ab016414ce07c3ea39[m
+Author: Ulf Skutnabba <skutis77@gmail.com>
+Date:   Tue Oct 4 00:17:27 2022 +0200
+
+    New library for seta symbols
+
+[33mcommit b5366314e6d68dbc1ead7df9c5556e2f187e11f7[m
+Author: Ulf Skutnabba <skutis77@gmail.com>
+Date:   Mon Oct 3 00:14:23 2022 +0200
+
+    Updated the seta symbols in the yamaha library
+
+[33mcommit 54c99bb554e0a4d2dd60950bb3ec924f58431cb6[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Thu Sep 1 17:13:15 2022 +0200
+
+    ym gfx
+
+[33mcommit c6d280b8b43f07aa1db8c0ae5b3f50869aaf3655[m
+Merge: 1a7ada8 c7cd734
+Author: Jose Tejada <jotego@gmail.com>
+Date:   Thu Sep 1 14:26:29 2022 +0200
+
+    Merge pull request #1 from skutis/master
+    
+    Updated pins for SETA symbols for easier interpretation of pin functi…
+
+[33mcommit c7cd73476ed22d7e20486714af4862272bc66ada[m
+Author: Ulf Skutnabba <skutis77@gmail.com>
+Date:   Tue Aug 30 23:05:18 2022 +0200
+
+    Updated pins for SETA symbols for easier interpretation of pin functions.
+
+[33mcommit 1a7ada8afed6e580e825ea8c824c0dba5059cccd[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Tue Aug 30 17:27:27 2022 +0200
+
+    microcontroller
+
+[33mcommit 8b3ff0603dafe12de4945a45d0e3f6a6138150f4[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Mon Aug 29 17:08:46 2022 +0200
+
+    microcontroller
+
+[33mcommit 6eed47a16d57b30496f90711a2c95c052bf926ab[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Wed Aug 24 18:00:48 2022 +0200
+
+    additions ym3906-09
+
+[33mcommit c051215d521972f33cbf693c48d00fa4ee7b3ce2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Mon Aug 22 17:26:16 2022 +0200
+
+    74xx -> 74
+
+[33mcommit c1e7a63682ac86c4248b046c7509feec39bd16b9[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Fri Aug 19 18:44:33 2022 +0200
+
+    Updated to KiCAD 6
+
+[33mcommit 49f80308da460319fc7eabde7c12096216651def[m
+Author: etriana85 <esperanza.duarte@jotego.es>
+Date:   Fri Aug 19 15:27:58 2022 +0200
+
+    Sym lib table
+
+[33mcommit 3f2035bcde588494cee3c0464b016776659a729a[m
+Author: Jose Tejada <jotego@gmail.com>
+Date:   Fri Aug 19 09:08:26 2022 +0200
+
+    minor
+
+[33mcommit f9ca5df2faf0ffa2fcf47642e2bd48243850e94b[m
+Author: Jose Tejada <jotego@gmail.com>
+Date:   Fri Aug 19 09:07:46 2022 +0200
+
+    Initial commit
