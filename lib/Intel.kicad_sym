@@ -191,7 +191,7 @@
     (property "Footprint" "" (id 2) (at 0 19.05 90)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://www.datasheetarchive.com/?q=intel+8742" (id 3) (at 0 19.05 90)
+    (property "Datasheet" "https://www.datasheetarchive.com/?q=intel+8742" (id 3) (at 1.27 -30.48 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "INTEL8742_0_0"
