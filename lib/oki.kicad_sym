@@ -17,7 +17,7 @@
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
-      (text "CMOS DYNAMIC RAM 16BIT" (at 5.08 -10.16 900)
+      (text "CMOS DYNAMIC RAM 1MB word x 16BIT" (at 2.54 -1.27 900)
         (effects (font (size 1.27 1.27)))
       )
       (pin power_in line (at 2.54 27.94 270) (length 2.54)
