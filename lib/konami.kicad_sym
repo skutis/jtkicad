@@ -1749,10 +1749,10 @@
     )
   )
   (symbol "KONAMI_005273" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at 0 10.16 0)
+    (property "Reference" "U" (id 0) (at 3.81 10.16 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "KONAMI_005273" (id 1) (at 0 10.16 0)
+    (property "Value" "KONAMI_005273" (id 1) (at 0 -10.16 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -1762,12 +1762,261 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "KONAMI_005273_0_0"
-      (text "INPUT FILTER" (at 0 0 900)
-        (effects (font (size 1.27 1.27)))
+      (circle (center -1.397 2.159) (radius 0.127)
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center -1.397 4.699) (radius 0.127)
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.397 2.159)
+          (xy -1.397 0.889)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.397 2.159)
+          (xy -1.397 2.794)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.397 2.159)
+          (xy -0.762 2.159)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.397 4.064)
+          (xy -1.397 3.937)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.397 4.699)
+          (xy -1.397 4.064)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.762 4.699)
+          (xy -1.397 4.699)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 4.445)
+          (xy -0.254 4.318)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 4.699)
+          (xy -0.762 4.699)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.254 5.08)
+          (xy -0.254 4.445)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 4.445)
+          (xy 0 4.318)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0 5.08)
+          (xy 0 4.445)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.508 2.159)
+          (xy 0.381 2.159)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.508 4.699)
+          (xy 0 4.699)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.762 3.302)
+          (xy 1.397 3.302)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 0.762 3.556)
+          (xy 1.397 3.556)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.143 1.524)
+          (xy 1.143 0.889)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.143 2.159)
+          (xy 0.508 2.159)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.143 2.794)
+          (xy 1.143 1.524)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.143 3.302)
+          (xy 1.143 2.794)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.143 4.064)
+          (xy 1.143 3.556)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.143 4.699)
+          (xy 0.508 4.699)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.143 5.334)
+          (xy 1.143 4.064)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.397 3.302)
+          (xy 1.524 3.302)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy 1.397 3.556)
+          (xy 1.524 3.556)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -1.397 2.794)
+          (xy -1.651 2.921)
+          (xy -1.143 3.048)
+          (xy -1.651 3.302)
+          (xy -1.143 3.556)
+          (xy -1.651 3.81)
+          (xy -1.397 3.937)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
+          (xy -0.762 2.159)
+          (xy -0.635 2.413)
+          (xy -0.508 1.905)
+          (xy -0.254 2.413)
+          (xy 0 1.905)
+          (xy 0.254 2.413)
+          (xy 0.381 2.159)
+        )
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.143 2.159) (radius 0.127)
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (circle (center 1.143 4.699) (radius 0.127)
+        (stroke (width 0.1524) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (text "220" (at -0.127 1.397 0)
+        (effects (font (size 0.381 0.381)))
+      )
+      (text "3.3k" (at -2.413 3.302 0)
+        (effects (font (size 0.381 0.381)))
+      )
+      (text "350nF" (at -0.127 3.81 0)
+        (effects (font (size 0.381 0.381)))
+      )
+      (text "INPUT FILTER RC" (at -1.27 -3.81 900)
+        (effects (font (size 0.508 0.508)))
+      )
+      (text "VCC" (at 0.508 5.715 0)
+        (effects (font (size 0.381 0.381)))
+      )
+      (text "VSS" (at 1.651 0.381 0)
+        (effects (font (size 0.381 0.381)))
       )
     )
     (symbol "KONAMI_005273_0_1"
-      (rectangle (start -5.08 8.89) (end 5.08 -8.89)
+      (rectangle (start -5.08 7.62) (end 4.826 -8.89)
         (stroke (width 0) (type default) (color 0 0 0 0))
         (fill (type background))
       )
