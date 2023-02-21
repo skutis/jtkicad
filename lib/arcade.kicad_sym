@@ -8827,7 +8827,7 @@
     (property "Reference" "U" (id 0) (at 3.81 12.7 0)
       (effects (font (size 1.2446 1.2446)))
     )
-    (property "Value" "MN2114" (id 1) (at 0 -10.16 0)
+    (property "Value" "MN2114" (id 1) (at 0 10.16 0)
       (effects (font (size 1.2446 1.2446)))
     )
     (property "Footprint" "" (id 2) (at 0 0 0)
@@ -8835,6 +8835,11 @@
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.2446 1.2446)) hide)
+    )
+    (symbol "MN2114_0_0"
+      (text "4098 BIT  STATIC RAM" (at 0 -1.27 900)
+        (effects (font (size 0.762 0.762)))
+      )
     )
     (symbol "MN2114_0_1"
       (rectangle (start -7.62 11.43) (end 7.62 -11.43)
