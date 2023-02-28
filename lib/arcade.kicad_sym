@@ -1436,7 +1436,7 @@
     )
   )
   (symbol "AY-3-8910" (pin_names (offset 1.016)) (in_bom yes) (on_board yes)
-    (property "Reference" "U" (id 0) (at 0 0 0)
+    (property "Reference" "U" (id 0) (at 7.62 26.67 0)
       (effects (font (size 1.2446 1.2446)))
     )
     (property "Value" "AY-3-8910" (id 1) (at -2.54 -22.86 0)
@@ -1447,6 +1447,11 @@
     )
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.2446 1.2446)) hide)
+    )
+    (symbol "AY-3-8910_0_0"
+      (text " Programmable Sound Generator" (at 0 -1.27 900)
+        (effects (font (size 0.762 0.762)))
+      )
     )
     (symbol "AY-3-8910_0_1"
       (rectangle (start 8.89 25.4) (end -10.16 -26.67)
@@ -11301,8 +11306,13 @@
     (property "Footprint" "" (id 2) (at -1.27 -1.27 0)
       (effects (font (size 1.2446 1.2446)) hide)
     )
-    (property "Datasheet" "" (id 3) (at -1.27 -1.27 0)
+    (property "Datasheet" "https://www.datasheetarchive.com/pdf/download.php?id=ae4ee81d6a6125b28621ae96d3ad96b4a1a1b6&type=M&term=SN76489" (id 3) (at 0 -12.7 0)
       (effects (font (size 1.2446 1.2446)) hide)
+    )
+    (symbol "SN76489AN_0_0"
+      (text "Sound Generator" (at 0 -7.62 0)
+        (effects (font (size 0.762 0.762)))
+      )
     )
     (symbol "SN76489AN_0_1"
       (rectangle (start -8.89 12.7) (end 7.62 -11.43)
